@@ -13,14 +13,6 @@
 
 ---
 
-### About
-
-I create practical software with an emphasis on **clean interfaces, user control, and approachable workflows**. My projects focus on networking tools for Windows and the browser, including English and Persian / right-to-left experiences.
-
-- **Thoughtful design:** Useful features without unnecessary complexity.
-- **Clarity:** Straightforward interfaces and documentation.
-- **Accessibility:** Experiences that work across languages and layouts.
-
 ### Featured projects
 
 #### 🖥️ [Glide](https://github.com/BlackkCore/Glide) — Windows networking client
