@@ -1,53 +1,127 @@
-<!-- BlackCore GitHub profile README | Repository: BlackkCore/BlackkCore -->
 
 <div align="center">
-  <img src="assets/blackcore-logo.png" width="180" alt="BlackCore logo" />
-  <h1>BlackCore</h1>
-  <p><strong>Building better tools for a connected world.</strong></p>
-  <p>Privacy-minded networking tools &bull; Modern desktop software &bull; Practical developer utilities</p>
-  <p>
-    <a href="https://github.com/BlackkCore/Glide"><img alt="Glide repository" src="https://img.shields.io/badge/Glide-Windows%20App-00CFE8?style=for-the-badge&amp;logo=windows11&amp;logoColor=0B1020" /></a>
-    <a href="https://blackkcore.github.io/Trace/"><img alt="Launch Trace" src="https://img.shields.io/badge/Trace-Launch%20Web%20App-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00D9F5" /></a>
-  </p>
+
+# Z E K K Y
+
+### Full-Stack Developer · Web · Desktop · Systems
+
+**Building software that feels as good as it works.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://zekky.pages.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-BlackkCore-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackkCore)
+
 </div>
 
 ---
 
-### Featured projects
+### About Me
 
-#### 🖥️ [Glide](https://github.com/BlackkCore/Glide) — Windows networking client
+I'm a developer focused on building practical, modern software — from polished web applications to desktop tools and networking utilities.
 
-A redesigned Windows client based on **v2rayN**, providing a streamlined interface for **Xray, sing-box, and mihomo** workflows.
+I care about:
 
-**Highlights:** Modern desktop interface · Persian / RTL support · Windows integration
+- Clean, intuitive user interfaces
+- Performance, reliability, and security
+- Thoughtful software architecture
+- Creating useful tools that solve real problems
 
-[**Explore Glide**](https://github.com/BlackkCore/Glide) · [Download the latest release](https://github.com/BlackkCore/Glide/releases/latest)
-
-#### 🌐 [Trace](https://github.com/BlackkCore/Trace) — Browser-based VLESS toolkit
-
-A browser-based toolkit for generating, importing, parsing, and checking VLESS configurations, with a focus on a simple experience.
-
-**Highlights:** Configuration utilities · Bulk import · English / Persian interfaces
-
-[**Explore Trace**](https://github.com/BlackkCore/Trace) · [Try the web app](https://blackkcore.github.io/Trace/)
-
-### Technologies used across these projects
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JavaScript-1A2233?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-1A2233?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1A2233?style=flat-square&amp;logo=css&amp;logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Windows-1A2233?style=flat-square&amp;logo=windows11&amp;logoColor=00D9F5" alt="Windows" />
-</p>
+Currently building and improving **Glide**, **Trace**, and **SinaFit**.
 
 ---
 
-<p align="center">
-  <strong>BlackCore</strong> — Build with purpose. Design for people.
-  <br />
-  <a href="https://github.com/BlackkCore/Glide">Glide</a> &nbsp;·&nbsp;
-  <a href="https://blackkcore.github.io/Trace/">Trace</a> &nbsp;·&nbsp;
-  <a href="https://github.com/BlackkCore?tab=repositories">All repositories</a>
-</p>
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Glide](https://github.com/BlackkCore/Glide)
+
+**Modern Windows Networking Client**
+
+A modern desktop client based on v2rayN, built with C# and Avalonia.
+
+- Modern desktop interface
+- Xray, sing-box, and mihomo support
+- Persian RTL support
+- Connection management and diagnostics
+
+**Tech:** C# · .NET · Avalonia
+
+[Repository](https://github.com/BlackkCore/Glide)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Trace](https://github.com/BlackkCore/Trace)
+
+**Browser-Based Configuration Toolkit**
+
+A privacy-focused toolkit for working with VLESS configurations directly in your browser.
+
+- Generate and validate configurations
+- Compare and convert configurations
+- Export compatible formats
+- No backend or account required
+
+**Tech:** JavaScript · HTML · CSS
+
+[Live Demo](https://blackkcore.github.io/Trace/) · [Repository](https://github.com/BlackkCore/Trace)
+
+</td>
+</tr>
+</table>
+
+#### SinaFit — Fitness Coaching Platform
+
+A full-stack fitness coaching platform designed for personalized training, nutrition, and client management.
+
+- Personalized workout and nutrition planning
+- Coach and client dashboards
+- Progress tracking and communication
+- Mobile-friendly Progressive Web App experience
+
+**Focus:** Full-stack Development · UI/UX · Performance · Security
+
+[Visit Website](https://sinafitt.com) · [Portfolio](https://zekky.pages.dev)
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BlackkCore&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Interested in my work, want to collaborate, or have an idea?
+
+**[Explore My Portfolio](https://zekky.pages.dev)**
+
+<sub>Designed and built with care · Zekky / BlackCore</sub>
+
+</div>
