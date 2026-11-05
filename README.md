@@ -104,13 +104,20 @@ A full-stack fitness coaching platform designed for personalized training, nutri
 
 ---
 
+
 ### GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BlackkCore&theme=github-dark-blue&hide_border=true)
+**Explore my development activity and open-source contributions.**
+
+[![GitHub Profile](https://img.shields.io/badge/View_Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackkCore)
+
+[![Glide Stars](https://img.shields.io/github/stars/BlackkCore/Glide?style=flat-square&label=Glide%20Stars&color=58a6ff)](https://github.com/BlackkCore/Glide)
+[![Trace Stars](https://img.shields.io/github/stars/BlackkCore/Trace?style=flat-square&label=Trace%20Stars&color=58a6ff)](https://github.com/BlackkCore/Trace)
 
 </div>
+
 
 ---
 
