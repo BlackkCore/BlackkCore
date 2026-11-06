@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Z E K K Y
@@ -48,7 +47,7 @@ A modern desktop client based on v2rayN, built with C# and Avalonia.
 
 **Tech:** C# · .NET · Avalonia
 
-[Repository](https://github.com/BlackkCore/Glide)
+[**Official Website**](https://g1ide.pages.dev/) · [Repository](https://github.com/BlackkCore/Glide) · [Download](https://github.com/BlackkCore/Glide/releases/latest)
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +103,6 @@ A full-stack fitness coaching platform designed for personalized training, nutri
 
 ---
 
-
 ### GitHub Activity
 
 <div align="center">
@@ -117,7 +115,6 @@ A full-stack fitness coaching platform designed for personalized training, nutri
 [![Trace Stars](https://img.shields.io/github/stars/BlackkCore/Trace?style=flat-square&label=Trace%20Stars&color=58a6ff)](https://github.com/BlackkCore/Trace)
 
 </div>
-
 
 ---
 
