@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Z E K K Y
@@ -8,6 +9,10 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://zekky.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-BlackkCore-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackkCore)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BlackkCore&label=PROFILE%20VIEWS&color=24292f&style=for-the-badge)
 
 </div>
 
