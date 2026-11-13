@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="42" viewBox="0 0 165 42" fill="none">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    @keyframes dotBeat { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+    .beat { animation: dotBeat 2s ease-in-out infinite; }
+  </style>
+  <rect x="0.5" y="0.5" width="164" height="41" rx="20.5" fill="#f1f3f7" stroke="#c9d0df" stroke-width="1"/>
+  <circle class="beat" cx="22" cy="21" r="3.5" fill="#0891b2"/>
+  <text x="88.5" y="25.5" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#111318" letter-spacing="0.2">Glide Releases</text>
+</svg>

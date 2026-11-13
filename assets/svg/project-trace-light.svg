@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="258" viewBox="0 0 432 258" fill="none">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    @keyframes eqA { 0%, 100% { transform: scaleY(0.55); } 50% { transform: scaleY(1); } }
+    @keyframes eqB { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.42); } }
+    @keyframes eqC { 0%, 100% { transform: scaleY(0.7); } 50% { transform: scaleY(1.05); } }
+    .b1 { transform-box: fill-box; transform-origin: bottom center; animation: eqA 1.4s ease-in-out infinite; }
+    .b2 { transform-box: fill-box; transform-origin: bottom center; animation: eqB 1.7s ease-in-out infinite; }
+    .b3 { transform-box: fill-box; transform-origin: bottom center; animation: eqC 1.2s ease-in-out infinite; }
+  </style>
+  <defs>
+    <linearGradient id="pt-bg-l" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f4f5f8"/>
+    </linearGradient>
+    <radialGradient id="pt-glow-l" cx="85%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#0891b2" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="pt-clip-l">
+      <rect x="0.5" y="0.5" width="431" height="257" rx="16"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#pt-clip-l)">
+    <rect width="432" height="258" rx="16" fill="url(#pt-bg-l)"/>
+    <rect width="432" height="258" fill="url(#pt-glow-l)"/>
+    <rect x="24" y="22" width="168" height="24" rx="12" fill="#f1f3f7" stroke="#c9d0df" stroke-width="1"/>
+    <text x="108" y="38" text-anchor="middle" class="mono" font-size="10.5" font-weight="700" fill="#0891b2" letter-spacing="0.9">02 · BROWSER STUDIO</text>
+
+    <rect class="b1" x="378" y="25" width="4" height="17" rx="2" fill="#0891b2"/>
+    <rect class="b2" x="386" y="24" width="4" height="18" rx="2" fill="#d62814"/>
+    <rect class="b3" x="394" y="26" width="4" height="16" rx="2" fill="#0891b2"/>
+
+    <text x="24" y="88" class="sans" font-size="28" font-weight="800" fill="#111318" letter-spacing="-0.6">Trace</text>
+    <text x="24" y="114" class="sans" font-size="13.5" font-weight="600" fill="#0891b2">Client-Side VLESS Configuration Suite</text>
+
+    <text x="24" y="146" class="sans" font-size="13" fill="#4b5563">Generate, parse, validate, convert, and run</text>
+    <text x="24" y="165" class="sans" font-size="13" fill="#4b5563">TCPing checks locally with zero backend.</text>
+
+    <rect x="24" y="184" width="94" height="22" rx="6" fill="#f1f3f7" stroke="#dfe3ec"/>
+    <text x="71" y="199" text-anchor="middle" class="mono" font-size="10.5" font-weight="600" fill="#111318">JavaScript</text>
+    <rect x="126" y="184" width="70" height="22" rx="6" fill="#f1f3f7" stroke="#dfe3ec"/>
+    <text x="161" y="199" text-anchor="middle" class="mono" font-size="10.5" font-weight="600" fill="#111318">TCPing</text>
+    <rect x="204" y="184" width="96" height="22" rx="6" fill="#f1f3f7" stroke="#dfe3ec"/>
+    <text x="252" y="199" text-anchor="middle" class="mono" font-size="10.5" font-weight="600" fill="#111318">Zero Backend</text>
+
+    <line x1="24" y1="220" x2="408" y2="220" stroke="#dfe3ec"/>
+    <circle cx="30" cy="239" r="4" fill="#eab308"/>
+    <text x="41" y="243" class="mono" font-size="11.5" font-weight="600" fill="#4b5563">JS  ·  2 ★  ·  Privacy-First</text>
+    <text x="408" y="243" text-anchor="end" class="sans" font-size="12.5" font-weight="700" fill="#0891b2">Live Demo ↗</text>
+  </g>
+  <rect x="0.5" y="0.5" width="431" height="257" rx="16" stroke="#dfe3ec" stroke-width="1"/>
+</svg>

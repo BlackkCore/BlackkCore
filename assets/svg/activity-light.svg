@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" fill="none">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    @keyframes eqBreath {
+      0%, 100% { transform: scaleY(1); opacity: 0.92; }
+      50% { transform: scaleY(0.72); opacity: 0.6; }
+    }
+    .eq-bar { transform-box: fill-box; transform-origin: bottom center; }
+  </style>
+  <defs>
+    <linearGradient id="act-bg-l" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f4f5f8"/>
+    </linearGradient>
+    <pattern id="act-dots-l" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="rgba(15,23,42,0.045)"/>
+    </pattern>
+    <clipPath id="act-clip-l">
+      <rect x="0.5" y="0.5" width="879" height="213" rx="16"/>
+    </clipPath>
+    <linearGradient id="act-bar-grad-l" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#4350f2"/>
+      <stop offset="55%" stop-color="#d62814"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#act-clip-l)">
+    <rect width="880" height="214" rx="16" fill="url(#act-bg-l)"/>
+    <rect width="880" height="214" fill="url(#act-dots-l)"/>
+
+    <text x="36" y="34" class="mono" font-size="11" font-weight="700" fill="#d62814" letter-spacing="1.4">03 // 52-WEEK SIGNAL EQUALIZER</text>
+    <text x="844" y="34" text-anchor="end" class="mono" font-size="11" font-weight="600" fill="#4b5563">35+ CONTRIBUTIONS  ·  CADENCE</text>
+
+    <line x1="36" y1="68" x2="844" y2="68" stroke="#dfe3ec" stroke-dasharray="3 4"/>
+    <line x1="36" y1="114" x2="844" y2="114" stroke="#dfe3ec" stroke-dasharray="3 4"/>
+    <line x1="36" y1="160" x2="844" y2="160" stroke="#c9d0df"/>
+
+    <rect class="eq-bar" x="36.0" y="148.0" width="9" height="12.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 1.80s ease-in-out 0.00s infinite;"/>
+    <rect class="eq-bar" x="51.6" y="144.0" width="9" height="16.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.08s ease-in-out 0.14s infinite;"/>
+    <rect class="eq-bar" x="67.2" y="150.0" width="9" height="10.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.36s ease-in-out 0.28s infinite;"/>
+    <rect class="eq-bar" x="82.8" y="142.0" width="9" height="18.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.64s ease-in-out 0.42s infinite;"/>
+    <rect class="eq-bar" x="98.4" y="138.0" width="9" height="22.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.92s ease-in-out 0.56s infinite;"/>
+    <rect class="eq-bar" x="114.0" y="146.0" width="9" height="14.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.20s ease-in-out 0.70s infinite;"/>
+    <rect class="eq-bar" x="129.6" y="134.0" width="9" height="26.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.48s ease-in-out 0.84s infinite;"/>
+    <rect class="eq-bar" x="145.2" y="140.0" width="9" height="20.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 1.80s ease-in-out 0.98s infinite;"/>
+    <rect class="eq-bar" x="160.8" y="148.0" width="9" height="12.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.08s ease-in-out 1.12s infinite;"/>
+    <rect class="eq-bar" x="176.4" y="150.0" width="9" height="10.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.36s ease-in-out 1.26s infinite;"/>
+    <rect class="eq-bar" x="192.0" y="142.0" width="9" height="18.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.64s ease-in-out 1.40s infinite;"/>
+    <rect class="eq-bar" x="207.6" y="136.0" width="9" height="24.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.92s ease-in-out 1.54s infinite;"/>
+    <rect class="eq-bar" x="223.2" y="128.0" width="9" height="32.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.20s ease-in-out 0.00s infinite;"/>
+    <rect class="eq-bar" x="238.8" y="138.0" width="9" height="22.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.48s ease-in-out 0.14s infinite;"/>
+    <rect class="eq-bar" x="254.4" y="142.0" width="9" height="18.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 1.80s ease-in-out 0.28s infinite;"/>
+    <rect class="eq-bar" x="270.0" y="134.0" width="9" height="26.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.08s ease-in-out 0.42s infinite;"/>
+    <rect class="eq-bar" x="285.6" y="126.0" width="9" height="34.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.36s ease-in-out 0.56s infinite;"/>
+    <rect class="eq-bar" x="301.2" y="130.0" width="9" height="30.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.64s ease-in-out 0.70s infinite;"/>
+    <rect class="eq-bar" x="316.8" y="140.0" width="9" height="20.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.92s ease-in-out 0.84s infinite;"/>
+    <rect class="eq-bar" x="332.4" y="144.0" width="9" height="16.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.20s ease-in-out 0.98s infinite;"/>
+    <rect class="eq-bar" x="348.0" y="132.0" width="9" height="28.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.48s ease-in-out 1.12s infinite;"/>
+    <rect class="eq-bar" x="363.6" y="120.0" width="9" height="40.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 1.80s ease-in-out 1.26s infinite;"/>
+    <rect class="eq-bar" x="379.2" y="128.0" width="9" height="32.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.08s ease-in-out 1.40s infinite;"/>
+    <rect class="eq-bar" x="394.8" y="136.0" width="9" height="24.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.36s ease-in-out 1.54s infinite;"/>
+    <rect class="eq-bar" x="410.4" y="122.0" width="9" height="38.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.64s ease-in-out 0.00s infinite;"/>
+    <rect class="eq-bar" x="426.0" y="114.0" width="9" height="46.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.92s ease-in-out 0.14s infinite;"/>
+    <rect class="eq-bar" x="441.6" y="130.0" width="9" height="30.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.20s ease-in-out 0.28s infinite;"/>
+    <rect class="eq-bar" x="457.2" y="138.0" width="9" height="22.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.48s ease-in-out 0.42s infinite;"/>
+    <rect class="eq-bar" x="472.8" y="126.0" width="9" height="34.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 1.80s ease-in-out 0.56s infinite;"/>
+    <rect class="eq-bar" x="488.4" y="118.0" width="9" height="42.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.08s ease-in-out 0.70s infinite;"/>
+    <rect class="eq-bar" x="504.0" y="106.0" width="9" height="54.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.36s ease-in-out 0.84s infinite;"/>
+    <rect class="eq-bar" x="519.6" y="124.0" width="9" height="36.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.64s ease-in-out 0.98s infinite;"/>
+    <rect class="eq-bar" x="535.2" y="132.0" width="9" height="28.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.92s ease-in-out 1.12s infinite;"/>
+    <rect class="eq-bar" x="550.8" y="126.0" width="9" height="34.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 3.20s ease-in-out 1.26s infinite;"/>
+    <rect class="eq-bar" x="566.4" y="112.0" width="9" height="48.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 3.48s ease-in-out 1.40s infinite;"/>
+    <rect class="eq-bar" x="582.0" y="104.0" width="9" height="56.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 1.80s ease-in-out 1.54s infinite;"/>
+    <rect class="eq-bar" x="597.6" y="116.0" width="9" height="44.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.08s ease-in-out 0.00s infinite;"/>
+    <rect class="eq-bar" x="613.2" y="124.0" width="9" height="36.0" rx="3.5" fill="#c9d0df" style="animation: eqBreath 2.36s ease-in-out 0.14s infinite;"/>
+    <rect class="eq-bar" x="628.8" y="110.0" width="9" height="50.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.64s ease-in-out 0.28s infinite;"/>
+    <rect class="eq-bar" x="644.4" y="118.0" width="9" height="42.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.92s ease-in-out 0.42s infinite;"/>
+    <rect class="eq-bar" x="660.0" y="106.0" width="9" height="54.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 3.20s ease-in-out 0.56s infinite;"/>
+    <rect class="eq-bar" x="675.6" y="96.0" width="9" height="64.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 3.48s ease-in-out 0.70s infinite;"/>
+    <rect class="eq-bar" x="691.2" y="112.0" width="9" height="48.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 1.80s ease-in-out 0.84s infinite;"/>
+    <rect class="eq-bar" x="706.8" y="100.0" width="9" height="60.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.08s ease-in-out 0.98s infinite;"/>
+    <rect class="eq-bar" x="722.4" y="92.0" width="9" height="68.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.36s ease-in-out 1.12s infinite;"/>
+    <rect class="eq-bar" x="738.0" y="104.0" width="9" height="56.0" rx="3.5" fill="url(#act-bar-grad-l)" style="animation: eqBreath 2.64s ease-in-out 1.26s infinite;"/>
+    <rect class="eq-bar" x="753.6" y="88.0" width="9" height="72.0" rx="3.5" fill="#0891b2" style="animation: eqBreath 2.92s ease-in-out 1.40s infinite;"/>
+    <rect class="eq-bar" x="769.2" y="82.0" width="9" height="78.0" rx="3.5" fill="#0891b2" style="animation: eqBreath 3.20s ease-in-out 1.54s infinite;"/>
+    <rect class="eq-bar" x="784.8" y="76.0" width="9" height="84.0" rx="3.5" fill="#0891b2" style="animation: eqBreath 3.48s ease-in-out 0.00s infinite;"/>
+    <rect class="eq-bar" x="800.4" y="72.0" width="9" height="88.0" rx="3.5" fill="#0891b2" style="animation: eqBreath 1.80s ease-in-out 0.14s infinite;"/>
+    <rect class="eq-bar" x="816.0" y="68.0" width="9" height="92.0" rx="3.5" fill="#0891b2" style="animation: eqBreath 2.08s ease-in-out 0.28s infinite;"/>
+    <rect class="eq-bar" x="831.6" y="68.0" width="9" height="92.0" rx="3.5" fill="#0891b2" style="animation: eqBreath 2.36s ease-in-out 0.42s infinite;"/>
+
+    <text x="36" y="186" class="mono" font-size="10.5" fill="#6b7280">NOV</text>
+    <text x="166" y="186" class="mono" font-size="10.5" fill="#6b7280">JAN</text>
+    <text x="296" y="186" class="mono" font-size="10.5" fill="#6b7280">MAR</text>
+    <text x="426" y="186" class="mono" font-size="10.5" fill="#6b7280">MAY</text>
+    <text x="556" y="186" class="mono" font-size="10.5" fill="#6b7280">JUL</text>
+    <text x="686" y="186" class="mono" font-size="10.5" fill="#6b7280">SEP</text>
+    <text x="844" y="186" text-anchor="end" class="mono" font-size="10.5" font-weight="700" fill="#0891b2">PEAK BURST ↗</text>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="213" rx="16" stroke="#dfe3ec" stroke-width="1"/>
+</svg>
